@@ -6222,4 +6222,4 @@ for (let ty in types) {
 
 var sets = [];
 
-var changelog = "-Added Wresolen and its new moves.";
+var changelog = "-added deez";
