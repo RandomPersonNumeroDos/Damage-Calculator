@@ -1,6 +1,6 @@
 var loomians = {
-    embit: {
-        name: "Embit",
+    urmom: {
+        name: "UrMom",
         number: 01,
         types: ["Fire"],
         abilities: ["Awakening"],
